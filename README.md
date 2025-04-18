@@ -69,7 +69,7 @@ Alternatively, you can use npm directly:
    ```bash
    npm install
    ```
-3. Set up your Supabase environment variables (create a `.env.local` file - see `.env.example`).
+3. Set up your Supabase environment variables (create a `.env.local` file - see `.env.example`). Added my .env.local to help run locally without any hickups. 
 4. Run the development server
    ```bash
    npm run dev
