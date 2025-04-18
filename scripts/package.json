@@ -1,0 +1,13 @@
+{
+  "name": "happy-loop-scripts",
+  "version": "1.0.0",
+  "description": "Scripts for Happy Loop application",
+  "type": "module",
+  "scripts": {
+    "setup-account": "node setup-test-account.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.21.0",
+    "dotenv": "^16.0.3"
+  }
+} 
